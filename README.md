@@ -5,7 +5,7 @@ Tested and working on Macbook M1 w MacOS Monterey version 12.2
 __________________
 
 Requirements:
-Install https://github.com/buo/homebrew-cask-upgrade via your terminal with the command `brew tap buo/cask-upgrade`
+Install https://github.com/buo/homebrew-cask-upgrade in your terminal via brew with the command `brew tap buo/cask-upgrade`
 
 __________________
 
