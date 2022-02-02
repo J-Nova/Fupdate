@@ -14,7 +14,7 @@ Open your terminal and open up `.zshrc` (or equivalent for your OS) via the term
 You can do this with the command `nano .zshrc`.
 
 Step 2:
-Once the file editor has opened up copy-paste this `alias fupdate="brew update; brew upgrade; brew cu --all; brew cleanup; pip install -r <(pip freeze) --upgrade"` on a new line at the bottom of the file. Next Exit the file editor with the key combination of (on MacOS) `control + X`. And press Y to save the edited file.
+Once the file editor has opened up copy-paste this `alias fupdate="brew update; brew upgrade; brew cu --all; brew cleanup; pip3 install -r <(pip3 freeze) --upgrade"` on a new line at the bottom of the file. Next Exit the file editor with the key combination of (on MacOS) `control + X`. And press Y to save the edited file.
 
 Step 3:
 Exit your opened terminal and open a new fresh terminal to be able to use the added command `fupdate`.
